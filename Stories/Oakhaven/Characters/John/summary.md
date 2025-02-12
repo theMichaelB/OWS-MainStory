@@ -1,0 +1,1 @@
+A semi-retired, cynical investigative journalist, pursuing a corruption case involving the local mayor, while grappling with the decline of traditional journalism.

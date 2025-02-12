@@ -1,0 +1,5 @@
+This is a project I am currently working on, it is in the very early stages, and I am developing a simple MVP. This will include a web site generated with a custom static site generator. Generated from this content. 
+
+This is a small sample story, named Oakhaven, intended to explore how the project will work technically, and to be used as a basis for building the initial website 
+
+Keep answers focused on the question being asked. Only provide additional feedback when asked. 

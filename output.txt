@@ -1,0 +1,152 @@
+```
+===META===
+{
+  "description": "Create initial bio.yaml files for all characters and update characters.yaml to remove writer and tier.",
+  "git_commit_message": "feat(characters): Initialize bio.yaml files and simplify characters.yaml"
+}
+===XML===
+<?xml version="1.0" encoding="UTF-8"?>
+<files>
+  <file operation="UPDATE" language="yaml" path="Stories/Oakhaven/characters.yaml">
+    <change_summary>Removed writer and tier fields. Updated bio_file paths.</change_summary>
+    <content><![CDATA[
+characters:
+  John Doyle:
+    bio_file: Characters/John/bio.yaml
+  Alice:
+    bio_file: Characters/Alice/bio.yaml
+  Sophie:
+    bio_file: Characters/Sophie/bio.yaml
+  Jane Potter:
+    bio_file: Characters/Jane/bio.yaml
+  Bernard Potter:
+    bio_file: Characters/Bernard/bio.yaml
+  Tom:
+    bio_file: Characters/Tom/bio.yaml
+  Alex:
+    bio_file: Characters/Alex/bio.yaml
+  Josephine:
+    bio_file: Characters/Josephine/bio.yaml
+  Stan:
+    bio_file: Characters/Stan/bio.yaml
+]]></content>
+  </file>
+  <file operation="CREATE" language="yaml" path="Stories/Oakhaven/Characters/John/bio.yaml">
+    <change_summary>Initial bio.yaml file for John.</change_summary>
+    <content><![CDATA[
+name: John Doyle
+status: active
+relationships: {}
+core_storylines: []
+secondary_storylines: []
+description: |
+  A semi-retired, cynical investigative journalist, pursuing a corruption case involving the local mayor, while grappling with the decline of traditional journalism.
+inventory: []
+]]></content>
+  </file>
+  <file operation="CREATE" language="yaml" path="Stories/Oakhaven/Characters/Alice/bio.yaml">
+    <change_summary>Initial bio.yaml file for Alice.</change_summary>
+    <content><![CDATA[
+name: Alice
+status: active
+relationships: {}
+core_storylines: []
+secondary_storylines: []
+description: |
+  The owner of the local coffee shop, a friendly and insightful woman who serves as a hub for the community and is navigating a new marriage with Sophie.
+inventory: []
+]]></content>
+  </file>
+  <file operation="CREATE" language="yaml" path="Stories/Oakhaven/Characters/Sophie/bio.yaml">
+    <change_summary>Initial bio.yaml file for Sophie.</change_summary>
+    <content><![CDATA[
+name: Sophie
+status: active
+relationships: {}
+core_storylines: []
+secondary_storylines: []
+description: |
+  A woman of Nigerian descent, newly married to Alice, trying to establish herself as an artist while struggling to adjust to life in a small town away from her law enforcement family.
+inventory: []
+]]></content>
+  </file>
+  <file operation="CREATE" language="yaml" path="Stories/Oakhaven/Characters/Jane/bio.yaml">
+    <change_summary>Initial bio.yaml file for Jane.</change_summary>
+    <content><![CDATA[
+name: Jane Potter
+status: active
+relationships: {}
+core_storylines: []
+secondary_storylines: []
+description: |
+  An ambitious young journalist, fresh from a Cambridge education in International Relations, seeking to make her mark in the field and potentially uncover the truth behind the local corruption, spurred on by her Grandfather's experiences.
+inventory: []
+]]></content>
+  </file>
+  <file operation="CREATE" language="yaml" path="Stories/Oakhaven/Characters/Bernard/bio.yaml">
+    <change_summary>Initial bio.yaml file for Bernard.</change_summary>
+    <content><![CDATA[
+name: Bernard Potter
+status: active
+relationships: {}
+core_storylines: []
+secondary_storylines: []
+description: |
+  Jane's grandfather, a lifelong resident of the town, and a former local councilor who was ousted by the current mayor, leaving him disillusioned with local politics. He spends his time wandering around town, waiting to be reunited with his deceased wife.
+inventory: []
+]]></content>
+  </file>
+  <file operation="CREATE" language="yaml" path="Stories/Oakhaven/Characters/Tom/bio.yaml">
+    <change_summary>Initial bio.yaml file for Tom.</change_summary>
+    <content><![CDATA[
+name: Tom
+status: active
+relationships: {}
+core_storylines: []
+secondary_storylines: []
+description: |
+  John's editor and the owner of the local paper, a businessman with questionable ethics who is currently away from the office, having a secret "sugar" affair with the local B&B owner, Josephine. He is controlling, and potentially using the relationship to exert power over her.
+inventory: []
+]]></content>
+  </file>
+  <file operation="CREATE" language="yaml" path="Stories/Oakhaven/Characters/Alex/bio.yaml">
+    <change_summary>Initial bio.yaml file for Alex.</change_summary>
+    <content><![CDATA[
+name: Alex
+status: active
+relationships: {}
+core_storylines: []
+secondary_storylines: []
+description: |
+  A man in his late 20s or early 30s, of mixed white and Middle Eastern heritage, grappling with his sexuality and facing a seven-day ultimatum from his absent girlfriend. He is unaware that his only friend harbours deep-seated prejudice against people like him.
+inventory: []
+]]></content>
+  </file>
+  <file operation="CREATE" language="yaml" path="Stories/Oakhaven/Characters/Josephine/bio.yaml">
+    <change_summary>Initial bio.yaml file for Josephine.</change_summary>
+    <content><![CDATA[
+name: Josephine
+status: active
+relationships: {}
+core_storylines: []
+secondary_storylines: []
+description: |
+  The mid-thirties owner of the local B&B, a divorced mother of two grown children, who is having a secret affair with Tom, relying on his financial support despite his controlling nature. She is a people pleaser, and is struggling to set boundaries.
+inventory: []
+]]></content>
+  </file>
+  <file operation="CREATE" language="yaml" path="Stories/Oakhaven/Characters/Stan/bio.yaml">
+    <change_summary>Initial bio.yaml file for Stan.</change_summary>
+    <content><![CDATA[
+name: Stan
+status: active
+relationships: {}
+core_storylines: []
+secondary_storylines: []
+description: |
+  A socially inept, late twenties or early thirties night watchman with extremist right-wing views and a dangerous obsession with Alice. He is unaware that his only friend, Alex, is secretly gay.
+inventory: []
+]]></content>
+  </file>
+</files>
+```

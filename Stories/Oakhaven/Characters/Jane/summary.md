@@ -1,0 +1,1 @@
+An ambitious young journalist, fresh from a Cambridge education in International Relations, seeking to make her mark in the field and potentially uncover the truth behind the local corruption, spurred on by her Grandfather's experiences.
