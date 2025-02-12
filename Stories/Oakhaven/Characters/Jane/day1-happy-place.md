@@ -1,7 +1,7 @@
 ---
 character_id: jane-2024-08-15
 name: Jane Potter
-date: 2024-08-15
+day: 1
 time_segment: morning
 location: happy-place-cafe
 ---
