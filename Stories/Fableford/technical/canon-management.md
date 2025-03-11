@@ -1,66 +1,77 @@
-# Fableford Canon Management System
-
 ## Overview
 
-The Canon Management System maintains narrative consistency while preserving creative freedom.
 
-## Canon Classification
+The Fableford Canon Management System helps maintain narrative consistency while preserving creative freedom. This system expands upon the existing Time Canon and Non-Time Canon concepts to address broader world-building elements.
+
+## Canon vs. Non-Canon Content
+
 
 ### Canon Content
-- Adheres to Fableford's established setting (modern-day England)
-- Maintains internal consistency
-- Follows real-world physics, technology, and social norms
-- Prominently featured in discovery and recommendation systems
+
+- Adheres to the established rules of Fableford's setting (modern-day England)
+- Maintains internal consistency with existing canon stories and world elements
+- Follows the physics, technology, and societal norms of our contemporary world
+- Is prominently featured in discovery mechanisms and recommended reading paths
 
 ### Non-Canon Content
-- May introduce elements contradicting established world-building
-- Offers creative exploration beyond core experience
-- Accessible but clearly marked
-- Serves as alternative narrative experiments
+
+- May introduce elements that contradict established world-building (e.g., dragons, magic, futuristic technology)
+- Offers creative exploration beyond the core Fableford experience
+- Can be enjoyed as alternative interpretations or "what-if" scenarios
+- Is still accessible but clearly marked as separate from the main narrative
 
 ## Canon Enforcement Process
 
-### Writer Responsibilities
-- Self-designate content as canon or non-canon
-- Review world-building materials when creating canon content
-- Request clarification through community forums
+
+### Writer Responsibility
+
+- Writers self-designate their content as canon or non-canon upon submission
+- When creating canon content, writers should review relevant world-building materials
+- Writers can request clarification on canon elements through the community forum
 
 ### Community Oversight
-- Readers and writers can flag potential canon violations
-- Peer review by experienced writers
-- Constructive feedback with resolution suggestions
+
+- Readers and other writers can flag potential canon violations
+- Canon concerns are reviewed by a designated peer group of experienced writers
+- Feedback is provided constructively with suggestions for resolution
 
 ### AI Assistance
-- Automated system scans submissions for potential discrepancies
-- Provides notifications about possible issues
-- Continuously learns from human feedback
+
+- An automated system scans new submissions to identify potential canon discrepancies
+- Writers receive notifications about possible issues before publication
+- The AI system improves over time as it learns from human feedback
 
 ## Canon Violation Examples
 
-Content typically marked non-canon includes:
-- Supernatural elements
-- Significant geographical alterations
-- Futuristic technology
-- Major historical events contradicting established lore
+
+Content that would typically be marked non-canon includes:
+
+
+- Introduction of supernatural elements (magic, mythical creatures, paranormal abilities)
+- Significant alterations to Fableford's geography or established locations
+- Futuristic or anachronistic technology beyond current real-world capabilities
+- Major historical events that contradict established Fableford history
 
 ## Canon Transition Process
 
-Compelling non-canon elements may be incorporated into main canon through:
-1. Community discussion
-2. Community voting
-3. Integration planning
-4. Official documentation updates
+
+Particularly compelling non-canon elements may occasionally be incorporated into the main canon through:
+
+
+1. Community discussion and voting
+2. Integration planning by involved writers
+3. Official announcement and documentation updates
 
 ## Visual Identification
 
-- Canon content: Standard formatting
-- Non-canon content: Distinct visual indicators
-- Filtering options for reader preferences
+- Canon content appears with standard formatting
+- Non-canon content features distinct visual indicators (alternative background color, badge, or section)
+- Filtering options allow readers to include or exclude non-canon content based on preference
 
-## Guiding Philosophy
 
-Maintain narrative coherence while encouraging creative exploration.
+----
 
-*Both canon and non-canon content contribute valuable perspectives to the Fableford experience.*
+This system allows Fableford to maintain narrative coherence while encouraging creative exploration and experimentation. Both canon and non-canon content contribute valuable perspectives to the overall Fableford experience, with clear distinctions helping readers navigate the world according to their preferences.
+
 
 *Last Updated: March 2025*
