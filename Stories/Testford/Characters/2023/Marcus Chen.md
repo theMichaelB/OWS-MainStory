@@ -4,7 +4,7 @@ name: "Marcus Chen"
 occupation: "Urban Planner"
 age: 35
 gender: "Male"
-residence: "Willow Court Apartments, #7, Bottom-ford"
+residence: "Willow Court Apartments, #7, Penny Farm"
 public_goals: ["Modernize Fableford infrastructure", "Create sustainable community spaces"]
 private_goals: ["Overcome professional burnout", "Reconnect with his cultural heritage"]
 ---
@@ -23,7 +23,7 @@ After a decade working for a prestigious urban planning firm in Manchester, Marc
 
 ## Current Situation
 
-Marcus has just moved to Fableford's Bottom-ford development, with his new council position not starting for another three weeks. He's using this time to explore the village, understand its character, and settle into his new home. His involvement with OTIQ remains largely unknown to the villagers, giving him an unfiltered view of community sentiments about the development. He's experiencing symptoms of burnout after years of high-pressure projects and is questioning his career choices while hoping this change of environment will provide a fresh perspective.
+Marcus has just moved to Fableford's Penny Farm development (colloquially known by locals as "Bottom-ford"), with his new council position not starting for another three weeks. He's using this time to explore the village, understand its character, and settle into his new home. His involvement with OTIQ remains largely unknown to the villagers, giving him an unfiltered view of community sentiments about the development. He's experiencing symptoms of burnout after years of high-pressure projects and is questioning his career choices while hoping this change of environment will provide a fresh perspective.
 
 ## Connections
 
